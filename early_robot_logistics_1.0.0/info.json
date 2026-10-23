@@ -1,0 +1,11 @@
+{
+  "name": "early_robot_logistics",
+  "version": "1.0.0",
+  "title": "Early Robot Logistics",
+  "author": "ChatGPT",
+  "description": "Unlock robot technology from the very beginning of the game. Craft robots and related equipment using basic early-game materials such as iron plates.",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1"
+  ]
+}
